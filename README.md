@@ -1,4 +1,34 @@
-# udacity_blog
-Repository for Udacity Blog Post
+Repository for Formula 1, Greatest Ever Driver Blog Post
 
-Communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements
+Project Description & Motivation
+This project conducts a simple analysis on Formula 1 data from 1950-2020 in an attempt to explore the topic 
+
+The project also forms a key submission for the Udacity Data Science Nanodegree program 2021. 
+
+Acknowledgements
+
+
+
+Data Required
+
+
+
+Code Files
+
+
+
+
+Libraries and technology
+
+
+
+Methodology
+
+
+
+
+
+
+Results Summary
+
+
