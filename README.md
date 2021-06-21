@@ -23,7 +23,7 @@ I used the following datasets for my analysis:
 **Code Files:**
 All analysis can be found in the 'Data Science Blog.ipynb' on the project GitHub page https://github.com/cwright08/F1_Greatest_Driver
 
-**Business Questions: **
+**Business Questions:**
 The questions I set out to answer initially were
 1A) Who is the greatest driver ever using traditional 'absolute metrics', such as total race wins
 1B) Who is the greatest driver ever using more 'relative' metrics such as wins per start
